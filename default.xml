@@ -11,7 +11,7 @@
 
   <!-- Core Dependencies -->
 
-  <project name="PowerWorks-Desktop" />
+  <project name="PowerWorks-DesktopClient" />
   <project name="PowerWorks-WebClient" />
   <project name="PowerWorks-Backend" />
 </manifest>
